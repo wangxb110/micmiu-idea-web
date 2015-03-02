@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="micmiu-idea-web:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="micmiu-idea-web.war">
+      <element id="artifact" artifact-name="micmiu-idea-web:war exploded" />
+    </root>
+  </artifact>
+</component>
